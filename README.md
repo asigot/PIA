@@ -1,2 +1,2 @@
 # PIA
-PIA - Processing for Images in Astrophysics
+PIA - *Processing for Images in Astrophysics*
